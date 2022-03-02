@@ -1,0 +1,275 @@
+/* navbar */
+
+
+position: absolute;
+width: 1366px;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #75E6DA 0.01%, rgba(117, 230, 218, 0.5) 0.02%, rgba(117, 230, 218, 0) 73.44%);
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* waves */
+
+
+position: absolute;
+width: 1366px;
+height: 328px;
+left: 0px;
+top: 440px;
+
+background: rgba(0, 153, 255, 0.3);
+
+
+/* container */
+
+
+position: absolute;
+width: 915px;
+height: 516px;
+left: 225px;
+top: 123px;
+
+background: rgba(212, 241, 244, 0.53);
+box-shadow: 0px 0px 30px rgba(117, 230, 218, 0.5);
+border-radius: 30px;
+
+
+/* judul */
+
+
+position: absolute;
+width: 454px;
+height: 53px;
+left: 442px;
+top: 190px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 52px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* onedek-logo */
+
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 28px;
+top: 13px;
+
+background: url(logo-onedek.png);
+
+
+/* web-ujian */
+
+
+position: absolute;
+width: 338px;
+height: 36px;
+left: 514px;
+top: 17px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* submit-btn */
+
+
+position: absolute;
+width: 189px;
+height: 49px;
+left: 588px;
+top: 614px;
+
+background: #F2F2F2;
+box-shadow: 0px 0px 10px #8E7DB1;
+border-radius: 50px;
+
+
+/* submit */
+
+
+position: absolute;
+width: 68px;
+height: 20px;
+left: 648px;
+top: 629px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* profil */
+
+
+position: absolute;
+width: 86px;
+height: 36px;
+left: 343px;
+top: 516px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* profil-btn */
+
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 286px;
+top: 274px;
+
+background: #189AB4;
+border-radius: 50px;
+
+
+/* illustrasi-profil */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 336px;
+top: 324px;
+
+background: url(.png);
+
+
+/* ujian-btn */
+
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 583px;
+top: 274px;
+
+background: #189AB4;
+border-radius: 50px;
+
+
+/* ujian */
+
+
+position: absolute;
+width: 76px;
+height: 36px;
+left: 644px;
+top: 516px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* illustrasi-ujian */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 633px;
+top: 324px;
+
+background: url(.png);
+
+
+/* presensi-btn */
+
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 880px;
+top: 274px;
+
+background: #189AB4;
+border-radius: 50px;
+
+
+/* presensi */
+
+
+position: absolute;
+width: 118px;
+height: 36px;
+left: 921px;
+top: 516px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* illustrasi-presensi */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 930px;
+top: 324px;
+
+background: url(.png);
